@@ -10,7 +10,7 @@
 | [Intune Troubleshooting](https://aka.ms/intunetroubleshooting) | Intune Troubleshooting |
 | [Intune Techcommunity](https://techcommunity.microsoft.com/t5/microsoft-intune/bd-p/Microsoft-Intune) | ... |
 | [Intune Customer Success](https://techcommunity.microsoft.com/t5/intune-customer-success/bg-p/IntuneCustomerSuccess) | Intune Customer Success |
-| [Reddit](https://www.reddit.com/r/Intune/) | Intune: Mobile Device Management |
+| [Reddit](https://www.reddit.com/r/Intune/) | Intune Mobile Device Management |
 
 
 
