@@ -11,13 +11,3 @@
 | [Intune Customer Success](https://techcommunity.microsoft.com/t5/intune-customer-success/bg-p/IntuneCustomerSuccess) | Intune Customer Success |
 | [Reddit](https://www.reddit.com/r/Intune/) | Intune Mobile Device Management |
 | [Intune App Wrapping Tool Mac](https://github.com/msintuneappsdk/intune-app-wrapping-tool-mac) | Use the Intune App Wrapping Tool for Mac to enable Mac apps to be managed by Microsoft Intune |
-
-
-
-
-# Powershell
-### Powershell relevant link
-| name | description |
-| --- | --- |
-| [Connect to Exchange Online PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) |  |
-| [Reddit](https://www.reddit.com/r/Intune/) | PowerShell |
