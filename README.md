@@ -31,4 +31,4 @@
 ### Intune stuff
 | name | description |
 | --- | --- |
-| Intune Script Log | /Users/salihzengin/Library/Logs/Microsoft/Intune |
+| [Intune Script Log](https://docs.microsoft.com/en-us/mem/intune/apps/macos-shell-scripts) | /Users/salihzett/Library/Logs/Microsoft/Intune |
