@@ -14,6 +14,20 @@
 | [Techcommunity](https://techcommunity.microsoft.com/t5/intune-customer-success/bg-p/IntuneCustomerSuccess) | Intune Customer Success |
 
 
+### Intune support, scripts, etc.
+| name | description |
+| --- | --- |
+| [Intune MDM](https://www.thelazyadministrator.com/2018/11/19/configure-and-deploy-intune-mdm/) | The lazy administrator |
+| [Intune BYOD](https://tech.nicolonsky.ch/enroll-macos-to-microsoft-intune/) | ... |
+| [Intune Lockscreen](https://www.thelazyadministrator.com/2019/08/08/set-corporate-lock-screen-wallpaper-with-intune-for-non-windows-10-enterprise-or-windows-10-education-machines/) | The lazy administrator |
+| [Intune Wallpaper](https://github.com/gregdeichler/InTune/blob/master/Set-DesktopBackGround.ps1) | The lazy administrator |
+| [Intune Scripts](https://www.risual.com/2019/02/add-powershell-script-to-intune-company-portal/) | ... |
+
+
+
+
+
+
 ### Intune stuff
 | name | description |
 | --- | --- |
