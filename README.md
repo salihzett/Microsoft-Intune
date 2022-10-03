@@ -27,3 +27,4 @@
 | [Intune Lockscreen](https://www.thelazyadministrator.com/2019/08/08/set-corporate-lock-screen-wallpaper-with-intune-for-non-windows-10-enterprise-or-windows-10-education-machines/) | The lazy administrator |
 | [Intune Wallpaper](https://github.com/gregdeichler/InTune/blob/master/Set-DesktopBackGround.ps1) | The lazy administrator |
 | [Intune Scripts](https://www.risual.com/2019/02/add-powershell-script-to-intune-company-portal/) | ... |
+| [Intune Autopilot Script](https://github.com/MSEndpointMgr/Intune/blob/master/Autopilot/Upload-WindowsAutopilotDeviceInfo.ps1) | ... |
