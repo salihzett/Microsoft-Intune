@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Siri</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.Siri.E6A8BEBC-CF8B-4DCC-83AB-AB71A3D8A660</string>
+			<key>PayloadType</key>
+			<string>com.apple.Siri</string>
+			<key>PayloadUUID</key>
+			<string>E6A8BEBC-CF8B-4DCC-83AB-AB71A3D8A660</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>StatusMenuVisible</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Assistant Enabled</key>
+			<false/>
+			<key>PayloadDisplayName</key>
+			<string>Assistant</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.assistant.support.A095276F-D6C3-409F-BE86-764D9AE5CAA9</string>
+			<key>PayloadType</key>
+			<string>com.apple.assistant.support</string>
+			<key>PayloadUUID</key>
+			<string>6FBA2B3B-6610-43C4-BB89-CC17DA20AEE1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Siri Data Sharing Opt-In Status</key>
+			<integer>2</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>macOS-CU-DisableSiri</string>
+	<key>PayloadIdentifier</key>
+	<string>MacBookPro183salihzengin.FE7259D3-2588-44AA-8FD3-CC1D2A5415CA</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>704EFEA9-825B-4381-9AF4-21C7B049C43B</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
