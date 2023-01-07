@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Deny-QT-ScreenCapture</string>
+			<key>PayloadDisplayName</key>
+			<string>Deny-QT-ScreenCapture</string>
+			<key>PayloadIdentifier</key>
+			<string>0C9A8096-04AD-42AB-9725-74747B1A18AA</string>
+			<key>PayloadOrganization</key>
+			<string>freITgeist GmbH</string>
+			<key>PayloadType</key>
+			<string>com.apple.TCC.configuration-profile-policy</string>
+			<key>PayloadUUID</key>
+			<string>02E62ACA-F17C-4687-95F6-03E0F3F83492</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Services</key>
+			<dict>
+				<key>ScreenCapture</key>
+				<array>
+					<dict>
+						<key>Allowed</key>
+						<false/>
+						<key>CodeRequirement</key>
+						<string>identifier "com.apple.QuickTimePlayerX" and anchor apple</string>
+						<key>Comment</key>
+						<string></string>
+						<key>Identifier</key>
+						<string>com.apple.QuickTimePlayerX</string>
+						<key>IdentifierType</key>
+						<string>bundleID</string>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Deny-QT-ScreenCapture</string>
+	<key>PayloadDisplayName</key>
+	<string>Deny-QT-ScreenCapture</string>
+	<key>PayloadIdentifier</key>
+	<string>0C9A8096-04AD-42AB-9725-74747B1A18AA</string>
+	<key>PayloadOrganization</key>
+	<string>freITgeist GmbH</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>F567B675-45C8-487F-8AC9-78C4F5F20487</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
