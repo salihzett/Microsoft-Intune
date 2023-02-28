@@ -18,4 +18,5 @@ Theses files must be on a stick.
    |- USB Stick
    |--- Get-Info.ps1
    |--- Get-WindowsAutoPilotInfo.ps1
+   |--- GetAutoPilot.CMD
 ```
