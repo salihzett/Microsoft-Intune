@@ -7,7 +7,7 @@ Enter explorer.exe, go to the USB stick and run (as administrator):
 GetAutoPilot.CMD
 (The script will warn you if u didn't execute as administrator).
 
-After a while, the CSV file, named with the serial number from the device, will be saved on the USB Stick.
+After a while, the CSV file, named with the serial number of the device, will be saved on the USB Stick.
 
 After you are done, you will see the process in Intune Autopilot. Status must be assigned this could take a while (5-10 minutes)
 
