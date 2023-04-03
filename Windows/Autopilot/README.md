@@ -5,7 +5,7 @@ Then click SHIFT + F10 and cmd will open.
 
 Enter explorer.exe, go to the USB stick and run (as administrator):
 GetAutoPilot.CMD
-(The script will warn you if u didn't execute as administrator).
+(The script is warning you if you didn't execute as administrator).
 
 After a while, the CSV file, named with the serial number of the device, will be saved on the USB Stick.
 
