@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<!-- 2.1 (L1) Enable Automatic Updates (Automated) -->
+			<!-- app.update.auto  -->
+			<key>AppAutoUpdate</key>
+			<true/>
+			<!-- 3.1 (L1) Disable Network Prefetch (Manual) -->
+			<key>NetworkPrediction</key>
+			<false/>
+			<!-- 3.2 (L1) Disable NTLM v1 (Automated) -->
+			<key>Authentication</key>
+			<dict>
+				<key>AllowNonFQDN</key>
+				<dict>
+					<key>NTLM</key>
+					<false/>
+					<key>SPNEGO</key>
+					<true/>
+				</dict>
+				<key>AllowProxies</key>
+				<dict>
+					<key>NTLM</key>
+					<false/>
+					<key>SPNEGO</key>
+					<true/>
+				</dict>
+				<key>Locked</key>
+				<false/>
+			</dict>
+			<!-- 3.6 (L1) Validate Proxy Settings (Manual) - use system proxy settings -->
+			<key>Proxy</key>
+			<dict>
+				<key>Mode</key>
+				<string>system</string>
+			</dict>
+			<!-- 4.4 (L1) Set Security TLS Version Maximum (Automated) -->
+			<key>SSLVersionMax</key>
+			<string>tls1.2</string>
+			<!-- 4.5 (L1) Set Security TLS Version Minimum (Automated) -->
+			<key>SSLVersionMin</key>
+			<string>tls1.2</string>
+			<!-- 5.1 (L1) Block Pop-up Windows (Automated) -->
+			<key>PopupBlocking</key>
+			  <dict>
+			    <key>Default</key>
+			    <false/>
+			    <key>Locked</key>
+			    <false/>
+			  </dict>
+			<!-- 6.2 (L1) Disabled Browser Sign-ins (Manual) -->
+		    <key>DisableFirefoxAccounts</key>
+		    <false/>
+			<!-- 6.3 (L1) Disable Firefox Shield Studies (Manual)-->
+		    <key>DisableFirefoxStudies</key>
+		    <false/>
+			<!-- 6.4 (L2) Disable Form Fill Assistance (Manual) -->
+		    <key>DisableFormHistory</key>
+		    <false/>
+			<!-- 6.6 (L1) Disable Pocket (Manual) -->
+			<key>DisablePocket</key>
+			<false/>
+			<!-- 6.7 (L1) Disable Sending Data (Manual) alternative -->
+			<key>DisableTelemetry</key>
+			<false/>
+			<!-- 6.8 (L1) Disallow Credential Storage (Automated) alternative -->
+		    <key>OfferToSaveLogins</key>
+		    <false/>
+			<!-- 6.9 (L1) Do Not Accept Third Party Cookies (Automated) -->
+			<key>Cookies</key>
+			<dict>
+				<key>AcceptThirdParty</key>
+				<string>never</string>
+			</dict>
+			<key>DisableAppUpdate</key>
+			<false/>
+			<!-- 6.11 (L1) Enable Tracking Protection (Automated) -->
+			<key>EnableTrackingProtection</key>
+			<dict>
+				<key>Value</key>
+				<true/> 
+				<!-- 8.3 (L1) Enable Cryptomining Protection (Manual) -->
+				<key>Cryptomining</key>
+				<true/>
+			</dict>
+			<!-- 7.2 (L1) Disable Development Tools (Manual) -->
+		    <key>DisableDeveloperTools</key>
+		    <false/>
+			<!-- 7.3 (L1) Disable Encrypted Media Extensions (Manual) -->
+			<key>EncryptedMediaExtensions</key>
+			<dict>
+				<key>Enabled</key>
+			    <false/>
+			    <key>Locked</key>
+			    <false/>
+			</dict>
+			<!-- 7.8 (L1) Enable Extension Update (Automated) -->
+			<key>ExtensionUpdate</key>
+			<false/>
+			<!-- 6.13 (L1) Disabled Delete Data Upon Shutdown (Manual) -->
+			<key>SanitizeOnShutdown</key>
+			  <dict>
+				  <key>Cache</key>
+				  <false/>
+				  <key>Cookies</key>
+				  <false/>
+				  <key>Downloads</key>
+				  <false/>
+				  <key>FormData</key>
+				  <false/>
+				  <key>History</key>
+				  <false/>
+				  <key>Sessions</key>
+				  <false/>
+				  <key>SiteSettings</key>
+				  <false/>
+				  <key>OfflineApps</key>
+				  <false/>
+				  <key>Locked</key>
+				  <false/>
+  			</dict>
+			<key>EnterprisePoliciesEnabled</key>
+			<true/>
+			<!-- 7.6 (L1) Enable Extension Auto Update (Automated) -->
+			<key>ExtensionUpdate</key>
+			<true/>
+			<key>PayloadDisplayName</key>
+			<string>Firefox</string>
+			<key>PayloadIdentifier</key>
+			<string>org.mozilla.firefox.C3F273A3-5AB5-4C7A-98C5-CDCAB319136A</string>
+			<key>PayloadType</key>
+			<string>org.mozilla.firefox</string>
+			<key>PayloadUUID</key>
+			<string>9052F929-DB1D-456E-A46F-A162B4C0C3A1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Preferences</key>
+			<dict>
+				<key>accessibility.force_disabled</key>
+				<integer>1</integer>
+				<key>browser.fixup.dns_first_for_single_words</key>
+				<true/>
+				<!-- 6.1 (L2) Configure New Tab Page (Manual) -->
+				<key>browser.urlbar.suggest.history</key>
+				<false/>
+				<key>browser.newtabpage.activity-stream.feeds.topsites</key>
+				<false/>
+				<key>browser.newtabpage.activity-stream.feeds.snippets</key>
+				<false/>
+				<key>browser.newtabpage.activity-stream.feeds.section.topstories</key>
+				<false/>
+				<key>browser.newtabpage.activity-stream.section.highlights.includePocket</key>
+				<false/>
+				<key>rowser.newtabpage.activity-stream.feeds.section.highlights</key>
+				<false/>
+				<!-- 5.2 (L1) Disable Closing of Windows via Scripts (Automated) -->
+				<key>dom.allow_scripts_to_close_windows</key>
+				<false/>
+				<!-- 5.4 (L1) Disable Moving or Resizing of Windows via Scripts (Manual) -->
+				<key>dom.disable_window_move_resize</key>
+				<false/>
+				<!-- 5.5 (L1) Disable Raising or Lowering of Windows via Scripts (Manual) -->
+				<key>dom.disable_window_flip</key>
+				<false/>
+				<!-- 7.5 (L1) Disabled Recommended Extensions (Manual) -->
+				<key>extensions.htmlaboutaddons.recommendations.enabled</key>
+				<false/>
+				<!-- 7.7 (L1) Enable Extension Block List (Automated) -->
+				<key>extensions.blocklist.enabled</key>
+				<true/>
+				<!-- 8.1 (L1) Block Reported Attack Sites (Automated) -->
+				<key>browser.safebrowsing.malware.enabled</key>
+				<true/>
+				<!-- 8.2 (L1) Block Reported Web Forgeries (Automated) -->
+				<key>browser.safebrowsing.phishing.enabled</key>
+				<true/>
+				<!-- 6.5 (L1) Disable Geolocation Serivces (Automated) -->
+				<key>geo.enabled</key>
+				<false/>
+				<key>network.IDN_show_punycode</key>
+				<true/>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Firefox</string>
+	<key>PayloadIdentifier</key>
+	<string>B54D88AB-A00F-4BA5-B026-4E5D1B78991D</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>DEB15B01-1EB3-4460-8BF8-8505FA50354C</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
