@@ -11,12 +11,15 @@
 | [How to deploy DMG or APP-format apps to Intune-managed Macs](https://techcommunity.microsoft.com/t5/intune-customer-success/how-to-deploy-dmg-or-app-format-apps-to-intune-managed-macs/ba-p/1503416) | Intune Customer Success |
 | [Intune App Wrapping Tool Mac](https://github.com/msintuneappsdk/intune-app-wrapping-tool-mac) | Use the Intune App Wrapping Tool for Mac to enable Mac apps to be managed by Microsoft Intune |
 | [Microsoft-Win32-Content-Prep-Tool](https://github.com/Microsoft/Microsoft-Win32-Content-Prep-Tool) | A tool to wrap Win32 App and then it can be uploaded to Intune |
+| [IntuneWinAppUtil-GUI-V2](https://github.com/marinalexandruradu/IntuneWinAppUtil-GUI-V2) | Simple GUI Interface for IntuneWinAppUtil.exe |
 | [Reddit](https://www.reddit.com/r/Intune/) | Intune Mobile Device Management |
+
 
 
 ### Intune support, scripts, etc.
 | name | description |
 | --- | --- |
+| [Microsoft Intune Automation and Scripting Samples](https://microsoft.github.io/webportal-intune-samples/) | The Intune GitHub scripts repos are intended to help Intune administrators better understand how to utilize the Graph and PowerShell modules for automation. |
 | [Intune Shell Samples](https://github.com/microsoft/shell-intune-samples) | Sample shell scripts for Intune admins. |
 | [Intune Powershell Samples](https://github.com/microsoftgraph/powershell-intune-samples) | This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell. |
 | [Intune MDM](https://www.thelazyadministrator.com/2018/11/19/configure-and-deploy-intune-mdm/) | The lazy administrator |
