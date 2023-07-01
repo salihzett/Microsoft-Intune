@@ -42,7 +42,7 @@
 | Groupname | Rule Syntax |
 | --- | --- |
 | AAD-DYN-USERS-NONACSII | `(user.surname -contains "ö") or (user.surname -contains "ä") or (user.surname -contains "ü") or (user.surname -contains "ß")` |
-| AAD-DYN-USERS-INTERNAL-EMPLOYEES| `(user.userPrincipalName -notContains "extern") and (user.userPrincipalName -notContains "#EXT#") and (user.givenName -ne null) and (user.userPrincipalName -contains "domain.com") and (user.userPrincipalName -notContains "patrick.hubertaxadvisor") and (user.jobTitle -notContains "Freelance") and (user.userPrincipalName -notContains "test") and (user.userPrincipalName -notContains "admin") and (user.userPrincipalName -notContains "old.")` |
+| AAD-DYN-USERS-INTERNAL-EMPLOYEES| `(user.userPrincipalName -notContains "extern") and (user.userPrincipalName -notContains "#EXT#") and (user.givenName -ne null) and (user.userPrincipalName -contains "domain.com") and (user.jobTitle -notContains "Freelance") and (user.userPrincipalName -notContains "test") and (user.userPrincipalName -notContains "admin") and (user.userPrincipalName -notContains "old.")` |
 | AAD-DYN-USERS-FRONTEND DEVELOPER | `(user.jobTitle -contains "Frontend") and (user.accountEnabled -eq true) and (user.userPrincipalName -notcontains "extern")` |
 | AAD-DYN-LICENSES-USERS-MICROSOFT-F3 | `user.assignedPlans -any (assignedPlan.servicePlanId -eq "e041597c-9c7f-4ed9-99b0-2663301576f7" -and assignedPlan.capabilityStatus -eq "Enabled")` |
 | AAD-DYN-LICENSES-USERS-MICROSOFT-BUSINESS-PREMIUM | `user.assignedPlans -any (assignedPlan.servicePlanId -eq "094e7854-93fc-4d55-b2c0-3ab5369ebdc1" -and assignedPlan.capabilityStatus -eq "Enabled")` |
