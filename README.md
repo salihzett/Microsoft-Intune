@@ -36,6 +36,8 @@
 | --- | --- |
 | MacAdmins | https://aka.ms/MacAdmins |
 | Intune | https://aka.ms/intuneportal |
+| What's new in Microsoft Intune | http://aka.ms/IntuneWN |
+
 
 
 ### AzureAD dynamic group suggestions for Intune setup
