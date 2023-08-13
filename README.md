@@ -29,6 +29,12 @@
 | [Intune Wallpaper](https://github.com/gregdeichler/InTune/blob/master/Set-DesktopBackGround.ps1) | The lazy administrator |
 | [Intune Scripts](https://www.risual.com/2019/02/add-powershell-script-to-intune-company-portal/) | ... |
 | [Intune Autopilot Script](https://github.com/MSEndpointMgr/Intune/blob/master/Autopilot/Upload-WindowsAutopilotDeviceInfo.ps1) | ... |
+| [Powershell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
+| [Techcommunity How To Deploy](https://techcommunity.microsoft.com/t5/intune-customer-success/how-to-deploy-dmg-or-app-format-apps-to-intune-managed-macs/ba-p/1503416) | How to deploy DMG or APP-format apps to Intune-managed Macs |
+| [Techcommunity 10 ways](https://techcommunity.microsoft.com/t5/microsoft-intune-blog/10-ways-microsoft-intune-improves-apple-device-management/ba-p/3766718#JITmacOS) | 10 ways Microsoft Intune improves Apple device management |
+| [Techcommunity Microsoft Mac Admins](https://techcommunity.microsoft.com/t5/intune-customer-success/introducing-the-microsoft-mac-admins-community/ba-p/3832834) | Introducing the Microsoft Mac Admins community |
+| [Techcommunity Manage Windows driver and firmware updates](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/manage-windows-driver-and-firmware-updates-with-microsoft-intune/ba-p/3851402?trk=feed_main-feed-card_feed-article-content) | Manage Windows driver and firmware updates with Microsoft Intune |
+| [Techcommunity Manage security settings](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/manage-security-settings-for-windows-macos-and-linux-natively-in/ba-p/3870617) | Manage security settings for Windows, macOS, and Linux natively in Defender for Endpoint |
 
 
 ### Azure Aka.ms short links
@@ -37,7 +43,6 @@
 | MacAdmins | https://aka.ms/MacAdmins |
 | Intune | https://aka.ms/intuneportal |
 | What's new in Microsoft Intune | http://aka.ms/IntuneWN |
-
 
 
 ### AzureAD dynamic group suggestions for Intune setup
